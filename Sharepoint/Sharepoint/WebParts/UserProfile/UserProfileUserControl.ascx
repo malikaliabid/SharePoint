@@ -8,3 +8,4 @@
 <%@ Control Language="C#" AutoEventWireup="true" CodeBehind="UserProfileUserControl.ascx.cs" Inherits="Sharepoint.WebParts.UserProfile.UserProfileUserControl" %>
 
 
+<asp:Button ID="Button1" runat="server" Text="Button" />
